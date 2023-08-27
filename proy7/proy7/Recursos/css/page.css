@@ -1,0 +1,114 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    color: #000044;
+}
+
+
+body {
+    font-size: 12px; /* base size */
+    text-align: left;
+    font-family: Verdana, "Verdana CE", Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    background-image: url(/recursos/imagenes/fondo.jpg);
+    background-repeat: repeat;
+    background-position: top left;
+    background-attachment: fixed;
+}
+
+    body > div {
+        width: 80em;
+        margin: 0 auto;
+        text-align: left;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+    padding: 1.0em 0em 1.0em 0em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+header, footer {
+    opacity: 0.75;
+    border-radius: 1em;
+    background-color: #000044;
+    padding: 1em;
+    text-align: center;
+    box-shadow: 0 0 1em white;
+}
+
+header {
+    margin: 2em auto 1em auto;
+}
+
+footer {
+    margin: 0.5em auto 1em auto;
+    color: white;
+}
+
+header > h1 {
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+    a:hover {
+        color: red;
+    }
+
+main {
+    min-height: 40em;
+    margin-left: 25em;
+    width: 53em;
+    opacity: 0.95;
+    border-radius: 1em;
+    background-color: #eeeef3;
+    padding: 1em;
+    margin-bottom: 1em;
+    box-shadow: 0.5em 0.5em 0.5em #004
+}
+
+nav {
+    min-height: 40em;
+    position: absolute;
+    width: 22em;
+    padding: 1em;
+    top: 7.5em;
+    opacity: 0.85;
+    border-radius: 1em;
+    background-color: #ccccd8;
+    box-shadow: 0.5em 0.5em 0.5em #004
+}
+
+.button {
+    width: 10em;
+    border-radius: 0.5em;
+    background-color: #000044;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+    .button:hover {
+        font-weight: bold;
+        color: red;
+    }

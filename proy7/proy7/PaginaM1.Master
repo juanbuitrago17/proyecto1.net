@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaM1.master.cs" Inherits="proy7.PaginaM1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Recursos/css/page.css" rel="stylesheet" />
+</head>
+<body>
+        <div>
+            <header><h1>Actividades de .Net</h1>
+                
+            </header>
+            <nav>
+                <h2><a href="WebForm1.aspx">Inicio</a></h2>
+                <h2><a href="Form1.aspx">If</a></h2>
+                <h2><a href="Form2.aspx">Switch</a></h2>
+                <h2><a href="Form3.aspx">While</a></h2>
+                <h2><a href="Form4.aspx">Try-catch</a></h2>
+            </nav>
+            <main>
+               <asp:ContentPlaceHolder ID="main" runat="server">
+               </asp:ContentPlaceHolder>
+            </main>
+            <footer>
+                <h3>&copy; JUAN PABLO BUITRAGO-DESARROLLO DE SOFTWARE</h3>
+            </footer>
+        </div>
+        
+</body>
+</html>

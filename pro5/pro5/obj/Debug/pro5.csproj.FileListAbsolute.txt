@@ -1,0 +1,14 @@
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.csproj.AssemblyReference.cache
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.Form1.resources
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.Properties.Resources.resources
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.csproj.GenerateResource.cache
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.csproj.CoreCompileInputs.cache
+C:\Users\ciberplay-park\source\repos\pro5\pro5\bin\Debug\pro5.exe.config
+C:\Users\ciberplay-park\source\repos\pro5\pro5\bin\Debug\pro5.exe
+C:\Users\ciberplay-park\source\repos\pro5\pro5\bin\Debug\pro5.pdb
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.exe
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.pdb
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.Registro.resources
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.Grados.resources
+C:\Users\ciberplay-park\source\repos\pro5\pro5\obj\Debug\pro5.Area.resources

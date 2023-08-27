@@ -1,0 +1,11 @@
+C:\Users\ciberplay-park\source\repos\pro4\pro4\bin\Debug\pro4.exe.config
+C:\Users\ciberplay-park\source\repos\pro4\pro4\bin\Debug\pro4.exe
+C:\Users\ciberplay-park\source\repos\pro4\pro4\bin\Debug\pro4.pdb
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.csproj.AssemblyReference.cache
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.Form1.resources
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.Properties.Resources.resources
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.csproj.GenerateResource.cache
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.csproj.CoreCompileInputs.cache
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.exe
+C:\Users\ciberplay-park\source\repos\pro4\pro4\obj\Debug\pro4.pdb

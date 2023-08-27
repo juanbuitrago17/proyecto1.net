@@ -1,0 +1,15 @@
+C:\Users\ciberplay-park\source\repos\proy6\proy6\bin\Debug\proy6.exe.config
+C:\Users\ciberplay-park\source\repos\proy6\proy6\bin\Debug\proy6.exe
+C:\Users\ciberplay-park\source\repos\proy6\proy6\bin\Debug\proy6.pdb
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.csproj.AssemblyReference.cache
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.FormulariMdi.resources
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.Properties.Resources.resources
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.csproj.GenerateResource.cache
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.csproj.CoreCompileInputs.cache
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.exe
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.pdb
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.Form1.resources
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.Form2.resources
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.Form3.resources
+C:\Users\ciberplay-park\source\repos\proy6\proy6\obj\Debug\proy6.Form4.resources

@@ -1,0 +1,8 @@
+C:\Users\ciberplay-park\source\repos\pro3\pro3\bin\Debug\pro3.exe.config
+C:\Users\ciberplay-park\source\repos\pro3\pro3\bin\Debug\pro3.exe
+C:\Users\ciberplay-park\source\repos\pro3\pro3\bin\Debug\pro3.pdb
+C:\Users\ciberplay-park\source\repos\pro3\pro3\obj\Debug\pro3.csproj.AssemblyReference.cache
+C:\Users\ciberplay-park\source\repos\pro3\pro3\obj\Debug\pro3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ciberplay-park\source\repos\pro3\pro3\obj\Debug\pro3.csproj.CoreCompileInputs.cache
+C:\Users\ciberplay-park\source\repos\pro3\pro3\obj\Debug\pro3.exe
+C:\Users\ciberplay-park\source\repos\pro3\pro3\obj\Debug\pro3.pdb

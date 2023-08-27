@@ -1,0 +1,8 @@
+C:\Users\ciberplay-park\source\repos\pro2\pro2\bin\Debug\pro2.exe.config
+C:\Users\ciberplay-park\source\repos\pro2\pro2\bin\Debug\pro2.exe
+C:\Users\ciberplay-park\source\repos\pro2\pro2\bin\Debug\pro2.pdb
+C:\Users\ciberplay-park\source\repos\pro2\pro2\obj\Debug\pro2.csproj.AssemblyReference.cache
+C:\Users\ciberplay-park\source\repos\pro2\pro2\obj\Debug\pro2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ciberplay-park\source\repos\pro2\pro2\obj\Debug\pro2.csproj.CoreCompileInputs.cache
+C:\Users\ciberplay-park\source\repos\pro2\pro2\obj\Debug\pro2.exe
+C:\Users\ciberplay-park\source\repos\pro2\pro2\obj\Debug\pro2.pdb
